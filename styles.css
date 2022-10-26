@@ -108,3 +108,31 @@ body {
     padding: 10px;
 
 }
+.tituloclasif {
+    margin-top: 200px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    text-align: center; 
+    padding-top: 100px;
+    
+}
+.tabla {
+    display: flex;
+    width: 90%;
+    padding: 10px;
+    margin-left: 75px;
+    
+}
+.tablaclasif {
+    color: white;
+    display: inline-block;
+    border: 1px solid white;
+    padding: 20px;
+    margin: 10px;
+    font-size: 25px;
+}
+.imgclasif{
+    margin-left: 50px;
+
+}
